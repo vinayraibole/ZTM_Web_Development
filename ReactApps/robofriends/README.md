@@ -1,11 +1,11 @@
-# This app was created using React.
+## This app was created using React.
 
-## When you clone the repository use the following commands to get started:
+### When you clone the repository use the following commands to get started:
 
-### --Check and download dependencies required for the project
+### - Check and download dependencies required for the project
 
-### `npm install`
+#### `npm install`
 
-### --Run the app locally
+### - Run the app locally
 
-### `npm start`
+#### `npm start`
